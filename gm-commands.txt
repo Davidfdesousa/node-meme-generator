@@ -1,0 +1,2 @@
+gm -version
+gm -convert "src/assets/img/input/meme-01.webp" -monochrome meme-01.webp

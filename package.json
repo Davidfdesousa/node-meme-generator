@@ -1,0 +1,20 @@
+{
+  "name": "gerador-meme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "live-reload": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "David Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "@erickwendel/meme-maker": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
